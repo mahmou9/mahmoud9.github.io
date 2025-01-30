@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بورتفوليو محمود الفولي</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبًا، أنا محمود الفولي</h1>
+        <p>محلل بيانات محترف | Python, SQL, Power BI</p>
+    </header>
+
+    <section>
+        <h2>مشاريعي</h2>
+        <ul>
+            <li><a href="project1.html">مشروع تحليل بيانات المبيعات</a></li>
+            <li><a href="project2.html">توقعات الإيرادات باستخدام Python</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>تواصل معي عبر <a href="mailto:your-email@gmail.com">البريد الإلكتروني</a></p>
+    </footer>
+</body>
+</html>
