@@ -62,7 +62,7 @@ HR-Dataset-Analysis/
 │-- requirements.txt       # Dependencies
 Usage
 Clone the repository:
-https://github.com/storytellersDEPI/DEPI-HR-analytics.git
+
 Navigate to the project directory:
 cd DEPI-HR-analytics
 Open Jupyter Notebook and run the preprocessing scripts:
